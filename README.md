@@ -2,7 +2,9 @@
 
 An interactive sports analytics engine that models long-term Premier League title races, European qualification, and squad turnover using Dixon-Coles Poisson goal expectations, bench depth penalties, and regulatory financial constraints (PSR/SCR).
 
-🔗 **Live Interactive App:** *Live deployment running on Streamlit Community Cloud (Link updating)*
+🔗 **Live Interactive App:** [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://epl-monte-carlo-simulator-lecqdz7mxra83wuecw97ry.streamlit.app/)
+
+👉 **Live Interactive App:** [Launch EPL Monte Carlo Simulator](https://epl-monte-carlo-simulator-lecqdz7mxra83wuecw97ry.streamlit.app/)
 
 ---
 
